@@ -10,3 +10,7 @@ build/
 
 # JavaDoc
 doc/
+
+# IDEA
+.idea/
+*.iml
